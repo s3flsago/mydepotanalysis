@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/mydepotanalysis.egg-info/PKG-INFO
+src/mydepotanalysis.egg-info/SOURCES.txt
+src/mydepotanalysis.egg-info/dependency_links.txt
+src/mydepotanalysis.egg-info/top_level.txt
